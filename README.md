@@ -2,6 +2,9 @@
 
 A simple automatic gate built with an Arduino, an ultrasonic sensor, a servo motor and LEDs. When an object comes within 15 cm of the sensor, the gate opens. When the object moves away, the gate closes.
 
+
+![alt](https://github.com/digbijoy1908/Arduino-Automatic-Gate-System/blob/8f706d9cadd61de9f3655e1247ae6d0e5a88cc98/ProjectImage.jpg)
+
 ## Features
 
 - Detects approaching objects with an HC-SR04 ultrasonic sensor
