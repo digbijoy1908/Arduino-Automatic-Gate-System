@@ -65,3 +65,9 @@ Each LED's negative leg goes to GND through a 220 ohm resistor.
 - **Detection distance:** change `15` in `if (distance <= 15)`.
 - **Open and closed angles:** change the values in `myServo.write(10)` and `myServo.write(90)` to match your gate.
 
+
+## Author
+
+## Digbijoy Chakroborty
+
+- **Email: digbijoycb1908@gmail.com
