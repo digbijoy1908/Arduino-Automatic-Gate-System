@@ -70,4 +70,4 @@ Each LED's negative leg goes to GND through a 220 ohm resistor.
 
 ## Digbijoy Chakroborty
 
-- **Email: digbijoycb1908@gmail.com
+- Email: digbijoycb1908@gmail.com
