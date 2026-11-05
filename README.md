@@ -5,6 +5,11 @@ A simple automatic gate built with an Arduino, an ultrasonic sensor, a servo mot
 
 ![alt](https://github.com/digbijoy1908/Arduino-Automatic-Gate-System/blob/8f706d9cadd61de9f3655e1247ae6d0e5a88cc98/ProjectImage.jpg)
 
+
+## circuit Diagram
+
+![alt](https://github.com/digbijoy1908/Arduino-Automatic-Gate-System/blob/2267ee60e5384101d07fba607efe56eb36372e57/Arduino%20Automatic%20GateCircuit_.jpg)
+
 ## Features
 
 - Detects approaching objects with an HC-SR04 ultrasonic sensor
